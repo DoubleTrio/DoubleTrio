@@ -1,5 +1,8 @@
-- 👋 Hi, I’m @DoubleTrio
-- 📫 You can reach me through my Discord #Trio-4442!
+- 👋 Hi, I’m @DoubleTrio or Kace
+- 🎉 Happy to see that you stumbled upon my profile!
+- ❓ 2B || !2B 
+
+_I am currently 2nd student studying Math & CS!_
 
 <!---
 DoubleTrio/DoubleTrio is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
