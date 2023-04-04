@@ -2,7 +2,7 @@
 - 🎉 Happy to see that you stumbled upon my profile!
 - ❓ 2B || !2B 
 
-_I am currently 2nd student studying Math & CS!_
+_I am currently a 2nd student studying Math & CS!_
 
 <!---
 DoubleTrio/DoubleTrio is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
